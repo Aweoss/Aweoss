@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aweoss
+- 👋 Hi, I’m @Lucas Pépin
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning SRC
 - 💞️ I’m looking to collaborate on ...
